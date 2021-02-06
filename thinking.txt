@@ -1,2 +1,0 @@
-DELETE FROM grades WHERE student = 'pavel'
-DELETE FROM grades WHERE student = $name
